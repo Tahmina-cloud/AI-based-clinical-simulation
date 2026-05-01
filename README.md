@@ -13,7 +13,7 @@ This project builds an AI-based Clinical Decision Support System using Reinforce
 * Random vs Rule-Based vs RL policy comparison
 * LLM explanation using Gemini API
 * Audio explanation using gTTS
-* Streamlit app interface
+
 
 ## Results
 
